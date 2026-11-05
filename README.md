@@ -28,6 +28,10 @@ Dark mode and custom colour themes for Microsoft's Remote Desktop Connection Man
 
 ### Tech I work with
 
-Python, PowerShell, JavaScript and TypeScript, PostgreSQL, Express, React, Node.js, C# for Windows tooling, and LLM APIs.
+Python, PowerShell, JavaScript and TypeScript, PostgreSQL, Express, React, Node.js, C++, C# and LLM APIs.
+
+On Windows I work in C++ with the Win32 API, including how Windows identifies hardware like device instance IDs, hardware IDs and device enumeration through SetupAPI.
+
+I also build messaging automations and bots in Node.js and TypeScript, such as a bridge that forwards messages between Telegram and WhatsApp.
 
 Issues and pull requests are welcome on every project. Each repository has a contributing guide.
